@@ -1,0 +1,12 @@
+{
+  "name": "jwt-tester",
+  "version": "1.0.0",
+  "bin": {
+    "jwtnoneify": "./index.js"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "caporal": "^0.10.0"
+  }
+}
