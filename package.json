@@ -1,5 +1,5 @@
 {
-  "name": "jwt-tester",
+  "name": "jwtnoneify",
   "version": "1.0.0",
   "bin": {
     "jwtnoneify": "./index.js"
